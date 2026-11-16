@@ -1,0 +1,10 @@
+# file locali, da non pubblicare
+CLAUDE.md
+.claude/
+.vscode/
+.idea/
+*.zip
+
+# sistema
+.DS_Store
+Thumbs.db
