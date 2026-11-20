@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" width="96" alt="dotmtickets"></p>
+<p align="center"><img src="logo.svg?v=2" width="96" alt="dotmtickets"></p>
 
 # dotmtickets — Biglietti QR per WooCommerce
 
